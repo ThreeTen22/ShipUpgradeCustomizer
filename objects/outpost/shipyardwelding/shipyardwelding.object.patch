@@ -1,0 +1,6 @@
+[
+{"op": "add", "path" : "/uiConfig", "value" : "/objects/outpost/shipyardwelding/interface/extrashipupgrades.config"},
+{"op": "add", "path" :"/interactAction", "value": "ScriptPane"},
+{"op": "add", "path": "/interactData", "value" : "/objects/outpost/shipyardwelding/interface/extrashipupgrades.config"},
+{"op": "remove", "path" : "/scripts"}
+]
